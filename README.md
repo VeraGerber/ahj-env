@@ -1,5 +1,6 @@
 # Webpack5
-![CI](https://github.com/VeraGerber/ajh-env/actions/workflows/web.yml/badge.svg)
+![CI Status](https://github.com/VeraGerber/ahj-env/actions/workflows/web.yml/badge.svg)
+
 
 
 
