@@ -1,5 +1,8 @@
 # Webpack5
-![CI Status](https://github.com/VeraGerber/ahj-env/actions/workflows/web.yml/badge.svg)
+[![Build status](https://ci.appveyor.com/api/projects/status/gxljekc7ldshjh7p?svg=true)](https://ci.appveyor.com/project/VeraGerber/ahj-env)
+
+[GitHub Pages](https://VeraGerber.github.io/ahj-env/)
+
 
 
 
